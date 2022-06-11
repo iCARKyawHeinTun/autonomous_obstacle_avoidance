@@ -27,6 +27,7 @@ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 --> open up second terminal,move to your catkin_ws, source the environment <--
 
 cd catkin_ws
+
 source devel/setup.bash
 
 --> launch navigation_stack and <--
@@ -38,6 +39,7 @@ roslaunch turtlebot3_navigation turtlebot3_navigation.launch
 --> open up third terminal,move to your catkin_ws, source the environment <--
 
 cd catkin_ws
+
 source devel/setup.bash
 
 --> launch the MoveBase python file <--
