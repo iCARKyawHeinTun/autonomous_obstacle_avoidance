@@ -7,7 +7,7 @@ cd catkin_ws/src
 
 --> download the code <--
 
-git clone 
+git clone https://github.com/iCARKyawHeinTun/autonomous_obstacle_avoidance.git
 
 --> compile your code <--
 
