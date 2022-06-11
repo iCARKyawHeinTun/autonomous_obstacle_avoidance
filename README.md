@@ -30,7 +30,7 @@ cd catkin_ws
 
 source devel/setup.bash
 
---> launch navigation_stack and <--
+--> launch navigation_stack <--
 
 roslaunch turtlebot3_navigation turtlebot3_navigation.launch
 
