@@ -13,7 +13,7 @@ cd ..  <br/>
 catkin_make  
 <br/>
 --> source your work environment <--  
-source devel/setup.bash
+source devel/setup.bash  
 <br/>
 --> launch the turtlebot3_gazebo standard world <--
 
