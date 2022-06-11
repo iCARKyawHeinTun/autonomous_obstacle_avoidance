@@ -2,6 +2,7 @@
 ROS / Python / MoveBase 
 
 --> change to your catkin source directory <--
+
 cd catkin_ws/src
 
 --> download the code <--
