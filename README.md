@@ -1,6 +1,8 @@
 # autonomous_obstacle_avoidance
 ROS / Python / MoveBase 
 
+「 This tutorial assume that you have already downloaded and installed turtlebot3 and turtlebot3_simulations files. 」 
+
 --> change to your catkin source directory <--  
 cd catkin_ws/src/  
 <br/>
