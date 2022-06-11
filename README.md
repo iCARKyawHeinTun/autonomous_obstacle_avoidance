@@ -20,11 +20,11 @@ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 --> open up second terminal,move to your catkin_ws, source the environment <--  
 cd catkin_ws  
 source devel/setup.bash
-<br/>
+<br/>  
 --> launch navigation_stack <--  
 roslaunch turtlebot3_navigation turtlebot3_navigation.launch  
 !! Define the approximate position of the turtlebot in RViz using 2D Pose Estimate !!
-<br/>
+<br/>  
 --> open up third terminal, move to your catkin_ws, source the environment <--  
 cd catkin_ws  
 source devel/setup.bash
