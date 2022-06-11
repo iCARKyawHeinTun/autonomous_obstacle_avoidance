@@ -1,0 +1,5 @@
+<launch>
+	<include file="$(find turtlebot3_gazebo)/launch/turtlebot3_world.launch" />
+	<include file="$(find turtlebot3_navigation)/launch/turtlebot3_navigation.launch" />
+	<node pkg="autonomous_obstacle_avoidance" type="my_python.py" name="auto_obs_avoid_node" output="screen" />
+</launch>
