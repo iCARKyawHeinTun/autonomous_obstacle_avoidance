@@ -1,24 +1,19 @@
 # autonomous_obstacle_avoidance
 ROS / Python / MoveBase 
 
---> change to your catkin source directory <--
-
+--> change to your catkin source directory <--  
 cd catkin_ws/src  
 
 <br/>
---> download the code <--
-
+--> download the code <--  
 git clone https://github.com/iCARKyawHeinTun/autonomous_obstacle_avoidance.git
 <br/>
 
---> compile your code <--
-
-cd ..
-
+--> compile your code <--  
+cd ..  
 catkin_make
 <br/>
---> source your work environment <--
-
+--> source your work environment <--  
 source devel/setup.bash
 <br/>
 --> launch the turtlebot3_gazebo standard world <--
