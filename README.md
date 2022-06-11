@@ -22,10 +22,8 @@ cd catkin_ws
 source devel/setup.bash
 <br/>
 
---> launch navigation_stack <--
-
-roslaunch turtlebot3_navigation turtlebot3_navigation.launch
-
+--> launch navigation_stack <--  
+roslaunch turtlebot3_navigation turtlebot3_navigation.launch  
 !! Define the approximate position of the turtlebot in RViz using 2D Pose Estimate !!
 <br/>
 
