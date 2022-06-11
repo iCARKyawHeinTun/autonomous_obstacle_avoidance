@@ -15,9 +15,8 @@ catkin_make
 --> source your work environment <--  
 source devel/setup.bash  
 <br/>
---> launch the turtlebot3_gazebo standard world <--
-
-roslaunch turtlebot3_gazebo turtlebot3_world.launch
+--> launch the turtlebot3_gazebo standard world <--  
+roslaunch turtlebot3_gazebo turtlebot3_world.launch  
 <br/>
 --> open up second terminal,move to your catkin_ws, source the environment <--
 
