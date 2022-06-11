@@ -1,3 +1,0 @@
-<launch>
-	<node pkg="autonomous_obstacle_avoidance" type="my_python.py" name="auto_obs_avoid_node" output="screen" />
-</launch>
