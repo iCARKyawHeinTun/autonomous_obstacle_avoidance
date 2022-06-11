@@ -29,8 +29,7 @@ roslaunch turtlebot3_navigation turtlebot3_navigation.launch
 cd catkin_ws  
 source devel/setup.bash
 <br/>
---> launch the MoveBase python file <--
-
+--> launch the MoveBase python file <--  
 roslaunch autonomous_obstacle_avoidance my_launch.launch
 <br/>
 
