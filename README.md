@@ -12,6 +12,7 @@ git clone https://github.com/iCARKyawHeinTun/autonomous_obstacle_avoidance.git
 --> compile your code <--
 
 cd ..
+
 catkin_make
 
 --> source your work environment <--
